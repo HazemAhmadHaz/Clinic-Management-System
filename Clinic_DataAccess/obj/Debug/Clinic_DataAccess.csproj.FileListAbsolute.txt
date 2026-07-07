@@ -1,0 +1,10 @@
+C:\Users\Marhaba\source\repos\DVLD Solution\DVLD_DataAccess\obj\Debug\Clinic_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\DVLD Solution\DVLD_DataAccess\obj\Debug\Clinic_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\DVLD Solution\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Marhaba\source\repos\DVLD Solution\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_DataAccess\obj\Debug\Clinic_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_DataAccess\obj\Debug\Clinic_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_DataAccess\obj\Debug\DVLD_DataAccess.pdb

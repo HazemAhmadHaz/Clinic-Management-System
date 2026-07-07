@@ -1,0 +1,13 @@
+C:\Users\Marhaba\source\repos\DVLD Solution\DVLD_Buisness\obj\Debug\Clinic_Buisness.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\DVLD Solution\DVLD_Buisness\obj\Debug\Clinic_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\DVLD Solution\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Marhaba\source\repos\DVLD Solution\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_Buisness\obj\Debug\Clinic_Buisness.csproj.AssemblyReference.cache
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_Buisness\obj\Debug\Clinic_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_Buisness\obj\Debug\Clinic_B.B156FFF7.Up2Date
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Marhaba\source\repos\Clinic 3\Clinic_Buisness\obj\Debug\DVLD_Buisness.pdb
